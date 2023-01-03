@@ -33,3 +33,38 @@ G:\ITVDN\01. Введение. Шаблон MVC. Middleware\03 SimpleApp\SimpleA
 G:\ITVDN\01. Введение. Шаблон MVC. Middleware\03 SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.genruntimeconfig.cache
 G:\ITVDN\01. Введение. Шаблон MVC. Middleware\03 SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.CopyComplete
 G:\ITVDN\01. Введение. Шаблон MVC. Middleware\03 SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.exe
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.deps.json
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.runtimeconfig.json
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.runtimeconfig.dev.json
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.dll
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.pdb
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.Views.dll
+G:\ITVDN\HW1\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.Views.pdb
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.AssemblyReference.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.AssemblyInfoInputs.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.AssemblyInfo.cs
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.CoreCompileInputs.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.MvcApplicationPartsAssemblyInfo.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.RazorAssemblyInfo.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.RazorAssemblyInfo.cs
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\staticwebassets\SimpleApp.StaticWebAssets.Manifest.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\staticwebassets\SimpleApp.StaticWebAssets.Pack.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SimpleApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SimpleApp.props
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SimpleApp.props
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SimpleApp.props
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.TagHelpers.input.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.TagHelpers.output.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.RazorCoreGenerate.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\List.cshtml.g.cs
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.RazorTargetAssemblyInfo.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.RazorTargetAssemblyInfo.cs
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.Views.pdb
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.dll
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.pdb
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.genruntimeconfig.cache
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.CopyComplete
