@@ -1,0 +1,11 @@
+﻿body {
+    font-family: 'Segoe UI'
+}
+
+table td {
+    padding: 8px;
+}
+
+.navbar-brand img {
+    width: 100px;
+}
