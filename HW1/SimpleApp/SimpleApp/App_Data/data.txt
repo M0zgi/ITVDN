@@ -1,4 +1,5 @@
-﻿1, Блок питания Deepcool 850W (R-PQ850M-FA0B-EU), 6349, 850 Вт / CPU - 4+4pin / GPU - 3x6+2 pin / SATA - 10, 0
-2, Книга Ефект Люцифера. Чому хороші люди чинять зло - Філіп Зімбардо Yakaboo Publishing (9789669763365), 425, язык - украинский / переплет - твердый, 6
-3, Монитор Dell S2721H (210-AXLE), 7169, 27" / IPS / 1920 x 1080 / 75 Гц /  16:9 / 300 кд/м2 / 1000:1 / 2 х HDMI, 1
-4, Маршрутизатор Mikrotik hAP ac³ (RBD53iG-5HacD2HnD), 3999, ac (до 867 Мбит/c) / 2.4-5 ГГц / 10/100/1000BASE-T Ethernet / LAN - 5 / USB, 20
+﻿1, Bloky_pytanyya, 323, Блок питания Deepcool 850W (R-PQ850M-FA0B-EU), 6349, 850 Вт / CPU - 4+4pin / GPU - 3x6+2 pin / SATA - 10, 0
+2, Knygy, 324, Книга Ефект Люцифера. Чому хороші люди чинять зло - Філіп Зімбардо Yakaboo Publishing (9789669763365), 425, язык - украинский / переплет - твердый, 6
+3, Monytory, 678, Монитор Dell S2721H (210-AXLE), 7169, 27" / IPS / 1920 x 1080 / 75 Гц /  16:9 / 300 кд/м2 / 1000:1 / 2 х HDMI, 1
+4, Marshrutyzatory, 432, Маршрутизатор Mikrotik hAP ac³ (RBD53iG-5HacD2HnD), 3999, ac (до 867 Мбит/c) / 2.4-5 ГГц / 10/100/1000BASE-T Ethernet / LAN - 5 / USB, 20
+5, Bloky_pytanyya, 323, Блок питания Seasonic 750W G12 GOLD (A751GCAFH), 4598, ATX 12 V / 750 Вт / 20+4 pin / CPU - 4+4pin / 8 pin, 2

@@ -45,5 +45,33 @@ namespace SimpleApp.Controllers
                 return NotFound();
             }
         }
+
+        public IActionResult Catalog(int id)
+        {
+            List<Product> products = _reader.ReadFromFile();
+            
+
+            Category category = new Category();
+
+            var productList = from product in products
+                              where product.CategoryId == id
+                              select product;
+
+            foreach (var item in productList)
+            {
+                category.Name = item.Category;
+                category.Products.Add(item);
+            }
+
+            if (category.Products != null)
+            {
+                return View(category);
+            }
+            else
+            {
+                // Возврат ошибки 404
+                return NotFound();
+            }
+        }
     }
 }

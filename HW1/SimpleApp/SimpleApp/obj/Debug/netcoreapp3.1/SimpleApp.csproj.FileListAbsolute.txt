@@ -68,3 +68,4 @@ G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.dll
 G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.pdb
 G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.genruntimeconfig.cache
 G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.CopyComplete
+G:\ITVDN\HW1\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\Razor\Views\Products\Catalog.cshtml.g.cs
