@@ -1,0 +1,581 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Exam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Exam.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\glass-case.css",
+      "PackagePath": "staticwebassets\\css\\glass-case.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\xpoge.css",
+      "PackagePath": "staticwebassets\\css\\xpoge.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\address-icon.svg",
+      "PackagePath": "staticwebassets\\images\\address-icon.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\author-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\author-thumb.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\blog-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\blog-img4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img4.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\brand-img1.png",
+      "PackagePath": "staticwebassets\\images\\brand-img1.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\brand-img2.png",
+      "PackagePath": "staticwebassets\\images\\brand-img2.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\brand-img3.png",
+      "PackagePath": "staticwebassets\\images\\brand-img3.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\brand-img4.png",
+      "PackagePath": "staticwebassets\\images\\brand-img4.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\brand-img5.png",
+      "PackagePath": "staticwebassets\\images\\brand-img5.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\brand-img6.png",
+      "PackagePath": "staticwebassets\\images\\brand-img6.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\check-box-icon.png",
+      "PackagePath": "staticwebassets\\images\\check-box-icon.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\comment-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-img1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\comment-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-img2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\comment-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\comment-img3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\drop_banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\drop_banner1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\drop_banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\drop_banner2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\drop_banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\drop_banner3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\fav-icon.png",
+      "PackagePath": "staticwebassets\\images\\fav-icon.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\grid-list.png",
+      "PackagePath": "staticwebassets\\images\\grid-list.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\mail-icon.svg",
+      "PackagePath": "staticwebassets\\images\\mail-icon.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\minus-icon.svg",
+      "PackagePath": "staticwebassets\\images\\minus-icon.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\nl-popup-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\nl-popup-bg.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\phone-icon.svg",
+      "PackagePath": "staticwebassets\\images\\phone-icon.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\quote-img.png",
+      "PackagePath": "staticwebassets\\images\\quote-img.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\select-icon.png",
+      "PackagePath": "staticwebassets\\images\\select-icon.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\ser-icon1.svg",
+      "PackagePath": "staticwebassets\\images\\ser-icon1.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\ser-icon2.svg",
+      "PackagePath": "staticwebassets\\images\\ser-icon2.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\ser-icon3.svg",
+      "PackagePath": "staticwebassets\\images\\ser-icon3.svg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sidebar-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\sidebar-banner.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\sprite.png"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-banner1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-banner2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-banner3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-banner4.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-responsive-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-responsive-banner1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-responsive-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-responsive-banner2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-responsive-banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-responsive-banner3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\sub-responsive-banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\sub-responsive-banner4.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\testimonial_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial_img1.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\testimonial_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial_img2.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\testimonial_img3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial_img3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Exam.props",
+      "PackagePath": "build\\Exam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Exam.props",
+      "PackagePath": "buildMultiTargeting\\Exam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Exam.props",
+      "PackagePath": "buildTransitive\\Exam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Exam</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Exam.styles.css" asp-append-version="true" />
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link type="image/x-icon" href="~/images/fav-icon.png" rel="icon">
+
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="~/css/xpoge.css">
+    <link rel="stylesheet" type="text/css" href="~/css/responsive.css">
+</head>
+<body>
+    <!-- Start preloader -->
+    <div id="preloader"></div>
+    <!-- End preloader -->
+    <!-- Search Screen start -->
+    <div class="sidebar-search-wrap">
+        <div class="sidebar-table-container">
+            <div class="sidebar-align-container">
+                <div class="search-closer right-side"></div>
+                <div class="search-container">
+                    <form method="get" id="search-form">
+                        <input type="text" id="s" class="search-input" name="s" placeholder="Start Searching">
+                    </form>
+                    <span>Search and Press Enter</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Search Screen end -->
+
+	<div class="main">
+		<partial name="_Header"/>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer section start -->
+		<footer class="footer-part">
+			<div class="container">
+				<div class="footer-top ptb-100">
+					<div class="mb_-30">
+						<div class="row">
+							<div class="col-12 col-lg-3 col-md-6">
+								<div class="footer-about mb-sm-30">
+									<div class="footer-logo">
+										<a href="index.html">
+											<img src="images/logo.png" alt="logo">
+										</a>
+									</div>
+									<p class="footer-p">Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh mauris sit amet nibh. Donec sodales sagittis</p>
+								</div>
+							</div>
+							<div class="col-12 col-lg-3 col-md-6">
+								<div class="footer-static-block">
+									<span class="opener plus"></span>
+									<h3 class="head-three">Information</h3>
+									<ul class="footer-menu footer-block-contant">
+										<li><a href="contact.html">Contact Us</a></li>
+										<li><a href="javascript:void(0)">Brands</a></li>
+										<li><a href="blog-left-col.html">Blog</a></li>
+										<li><a href="javascript:void(0)">Returns</a></li>
+										<li><a href="javascript:void(0)">Privacy Policy</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-12 col-lg-3 col-md-6">
+								<div class="footer-static-block">
+									<span class="opener plus"></span>
+									<h3 class="head-three">My Account</h3>
+									<ul class="footer-menu footer-block-contant">
+										<li><a href="javascript:void(0)">Order History</a></li>
+										<li><a href="wishlist.html">Wish List</a></li>
+										<li><a href="javascript:void(0)">Newsletter</a></li>
+										<li><a href="javascript:void(0)">Specials</a></li>
+										<li><a href="javascript:void(0)">Gift Certificates</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-12 col-lg-3 col-md-6">
+								<div class="footer-static-block">
+									<span class="opener plus"></span>
+									<h3 class="head-three">Contact us</h3>
+									<div class="contact-box footer-block-contant">
+										<ul>
+											<li>
+												<div class="contact-thumb">
+													<img src="images/address-icon.svg" alt="xpoge">
+												</div>
+												<div class="contact-box-detail">
+													<p>869 Lexington Ave, New York, NY 10065, USA</p>
+												</div>
+											</li>
+											<li>
+												<div class="contact-thumb">
+													<img src="images/phone-icon.svg" alt="xpoge">
+												</div>
+												<div class="contact-box-detail">
+													<p>+91 123 456 789 0</p>
+												</div>
+											</li>
+											<li>
+												<div class="contact-thumb">
+													<img src="images/mail-icon.svg" alt="xpoge">
+												</div>
+												<div class="contact-box-detail">
+													<p>xpoge@hi123.com</p>
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="footer-bottom align-center">
+					<div class="row">
+						<div class="col-12">
+							<div class="w-100">
+								<p class="mb-0">© Xpoge all Rights Reserverd theme by <a href="https://TemplatesCoder.com/" target="_blank" title="TemplatesCoder">TemplatesCoder</a></p>
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="social-media">
+								<ul>
+									<li><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="javascript:void(0)"><i class="fa fa-instagram"></i></a></li>
+									<li><a href="javascript:void(0)"><i class="fa fa-youtube"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- Footer section end -->
+	</div>
+	    
+    @* <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>*@
+    <script src="~/js/jquery-3.4.1.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/js/custom.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
