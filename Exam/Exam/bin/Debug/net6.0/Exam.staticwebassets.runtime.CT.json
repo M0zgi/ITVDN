@@ -7,6 +7,14 @@
     "Children": {
       "css": {
         "Children": {
+          "bootstrap.min.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/bootstrap.min.css"
+            },
+            "Patterns": null
+          },
           "font-awesome.min.css": {
             "Children": null,
             "Asset": {
@@ -657,14 +665,6 @@
             },
             "Patterns": null
           },
-          "modernizr.js": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "js/modernizr.js"
-            },
-            "Patterns": null
-          },
           "owl.carousel.min.js": {
             "Children": null,
             "Asset": {
@@ -673,12 +673,66 @@
             },
             "Patterns": null
           },
-          "site.js": {
-            "Children": null,
-            "Asset": {
-              "ContentRootIndex": 0,
-              "SubPath": "js/site.js"
+          "site": {
+            "Children": {
+              "bootstrap.min.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "js/site/bootstrap.min.js"
+                },
+                "Patterns": null
+              },
+              "custom.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "js/site/custom.js"
+                },
+                "Patterns": null
+              },
+              "jquery-3.4.1.min.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "js/site/jquery-3.4.1.min.js"
+                },
+                "Patterns": null
+              },
+              "jquery.magnific-popup.min.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "js/site/jquery.magnific-popup.min.js"
+                },
+                "Patterns": null
+              },
+              "modernizr.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "js/site/modernizr.js"
+                },
+                "Patterns": null
+              },
+              "owl.carousel.min.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "js/site/owl.carousel.min.js"
+                },
+                "Patterns": null
+              },
+              "site.js": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "js/site/site.js"
+                },
+                "Patterns": null
+              }
             },
+            "Asset": null,
             "Patterns": null
           }
         },

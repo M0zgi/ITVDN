@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Exam.bundle.scp.css"
     },
     {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
@@ -321,16 +325,36 @@
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\modernizr.js",
-      "PackagePath": "staticwebassets\\js\\modernizr.js"
-    },
-    {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\site\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\custom.js",
+      "PackagePath": "staticwebassets\\js\\site\\custom.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\site\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\site\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\site\\modernizr.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\site\\owl.carousel.min.js"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\site.js",
+      "PackagePath": "staticwebassets\\js\\site\\site.js"
     },
     {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\LICENSE",

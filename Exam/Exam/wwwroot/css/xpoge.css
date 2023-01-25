@@ -2694,6 +2694,7 @@ ul.child-comment {
     padding-top: 20px;
     margin-top: 20px;
     position: relative;
+    height:auto;
 }
 .comment-part .comment-list > li:first-child {
     border: none;
