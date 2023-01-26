@@ -349,8 +349,10 @@ G:\ITVDN\Exam\Exam\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.d
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-G:\ITVDN\Exam\Exam\obj\Debug\net6.0\Exam.MvcApplicationPartsAssemblyInfo.cs
 G:\ITVDN\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CopyComplete
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\BLL.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\BLL.pdb
+G:\ITVDN\Exam\Exam\bin\Debug\net6.0\AutoMapper.dll
+G:\ITVDN\Exam\Exam\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\ITVDN\Exam\Exam\obj\Debug\net6.0\Exam.MvcApplicationPartsAssemblyInfo.cs

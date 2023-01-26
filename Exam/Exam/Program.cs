@@ -1,4 +1,6 @@
 using BLL;
+using Exam.Interfeces;
+using Exam.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddBusinesslogicLayer();
+builder.Services.AddAutoMapper(typeof(AppMappingProfile));
+builder.Services.AddScoped<IProductServices, ProductServices>();
 
 var app = builder.Build();
 

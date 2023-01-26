@@ -36,19 +36,19 @@ namespace BLL.Services
             return await _repository.GetByName(name);
         }
 
-        public async Task<List<Product>> SelectProducts()
+        public async Task<IEnumerable<Product>> SelectProducts()
         {
             return await _repository.Select();
         }
 
-        public async Task<List<Product>> SelectProductsByCategory(string category)
+        public async Task<IEnumerable<Product>> SelectProductsByCategory(string category)
         {
             var products = await _repository.Select();
 
-            return products.Where(product => product.Category.Name == category).ToList();
+            return products.Where(product => product.Category.CategoryName == category).ToList();
         }
 
-        public async Task<List<Product>> SelectProductsByPrice(double price)
+        public async Task<IEnumerable<Product>> SelectProductsByPrice(double price)
         {
             var products = await _repository.Select();
 

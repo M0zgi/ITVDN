@@ -19,12 +19,12 @@ namespace BLL.Services
         {
             ProductCategory category = new ProductCategory()
             {
-                Name = "Женские юбки"
+                CategoryName = "Женские юбки"
             };
 
             ProductCategory category2 = new ProductCategory()
             {
-                Name = "Мужские футболки"
+                CategoryName = "Мужские футболки"
             };
 
             _database = new List<Product>()
