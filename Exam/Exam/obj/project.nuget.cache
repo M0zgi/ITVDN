@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zEhKXwFN8YTY0K4RGAd9hBp+4Ltb8rLwyXmn1NYxfL+bFlgMHTZ6fqUCEmBKiF+p9c2HBtfDTzE0LbMAf6xzxA==",
+  "dgSpecHash": "qIhPXYmvouq8MQ0fb28Vc14/FJhnDS4THn/wK5ZsZ3ZSadkYB1ZZ1rI+OlCts+fjajhSV1JNOsqugEpnadAUUg==",
   "success": true,
   "projectFilePath": "G:\\ITVDN\\Exam\\Exam\\Exam.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.0\\microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.0\\microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.13\\microsoft.codeanalysis.razor.6.0.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",

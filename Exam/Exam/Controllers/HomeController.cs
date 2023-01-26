@@ -18,10 +18,18 @@ namespace Exam.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        //Для тестирования ProductRepositoryMoq
+        public async Task<IActionResult> Privacy([FromServices] BLL.Interfaces.IProductServices productService)
         {
+            //var result = await productService.SelectProducts();
+            var result = await productService.SelectProductsByCategory("Мужские футболки");
+
             return View();
         }
+        //public IActionResult Privacy()
+        //{
+        //    return View();
+        //}
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

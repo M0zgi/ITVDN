@@ -1,0 +1,12 @@
+G:\ITVDN\Exam\BLL\bin\Debug\net6.0\BLL.deps.json
+G:\ITVDN\Exam\BLL\bin\Debug\net6.0\BLL.dll
+G:\ITVDN\Exam\BLL\bin\Debug\net6.0\BLL.pdb
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\BLL.dll
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\refint\BLL.dll
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\BLL.pdb
+G:\ITVDN\Exam\BLL\obj\Debug\net6.0\ref\BLL.dll

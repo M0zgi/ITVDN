@@ -123,7 +123,6 @@ G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
@@ -352,3 +351,6 @@ G:\ITVDN\Exam\Exam\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resour
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 G:\ITVDN\Exam\Exam\obj\Debug\net6.0\Exam.MvcApplicationPartsAssemblyInfo.cs
 G:\ITVDN\Exam\Exam\obj\Debug\net6.0\Exam.csproj.CopyComplete
+G:\ITVDN\Exam\Exam\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\ITVDN\Exam\Exam\bin\Debug\net6.0\BLL.dll
+G:\ITVDN\Exam\Exam\bin\Debug\net6.0\BLL.pdb
