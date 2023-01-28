@@ -19,18 +19,33 @@ namespace Exam.Controllers
             return View();
         }
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="productService"></param>
-        /// <returns></returns>
-        public async Task<IActionResult> Privacy([FromServices] IProductServices productService)
+
+        public async Task<IActionResult> Products([FromServices] IProductServices productService)
         {
             var result = await productService.SelectProducts();
             //var result = await productService.SelectProductsByCategory("Мужские футболки");
 
-            return View();
+            if (result.Status == ResultStatusCode.Ok)
+            {
+                return Json(result.Data);
+            }
+
+            return StatusCode((int)result.Status);
         }
+
+
+        ///// <summary>
+        ///// Тестирование маппинга
+        ///// </summary>
+        ///// <param name="productService"></param>
+        ///// <returns></returns>
+        //public async Task<IActionResult> Privacy([FromServices] IProductServices productService)
+        //{
+        //    var result = await productService.SelectProducts();
+        //    //var result = await productService.SelectProductsByCategory("Мужские футболки");
+
+        //    return View();
+        //}
 
         ////Для тестирования ProductRepositoryMoq
         //public async Task<IActionResult> Privacy([FromServices] BLL.Interfaces.IProductServices productService)
@@ -45,10 +60,10 @@ namespace Exam.Controllers
         //    return View();
         //}
 
-        //public IActionResult Privacy()
-        //{
-        //    return View();
-        //}
+        public IActionResult Privacy()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

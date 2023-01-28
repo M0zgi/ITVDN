@@ -1,5 +1,71 @@
 ﻿@{
     ViewData["Title"] = "Privacy Policy";
+    //Layout = null;
 }
 
+<!-- Product Section Start -->
+<section class="product-section pb-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="heading-part text-center mb-30 mb-sm-20">
+                    <h2 class="main_title">Featured Products</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row" id="products">
+            <div class="col-lg-3 col-md-4 col-6" v-for="tovar in products">
+                <div class="product-item">
+                    <div class="product-image">
+                        <div class="sale-label" v-if="tovar.isnew !=0"><span>Sale</span></div>
+                        <div class="new-label" v-if="tovar.issale !=0"><span>New</span></div>
+                        <a href="product-page.html">
+                            <img v-bind:src="tovar.urlimage" v-bind:alt="tovar.name">
+                        </a>
+                    </div>
+                    <div class="product-details-outer">
+                        <div class="product-details">
+                            <div class="product-title">
+                                <a href="product-page.html">{{tovar.name}}</a>
+                            </div>
+                            <div class="price-box">
+                                <span class="price">{{tovar.price}} грн.</span>
+                                <del class="price old-price" v-if="tovar.oldprice !=0">{{tovar.oldprice}} грн.</del>
+                            </div>
+                        </div>
+                        <div class="product-details-btn">
+                            <ul>
+                                <li class="icon cart-icon">
+                                    <a href="cart.html">
+                                        <span></span>
+                                    </a>
+                                </li>
+                                <li class="icon wishlist-icon">
+                                    <a href="wishlist.html">
+                                        <span></span>
+                                    </a>
+                                </li>
+                                <li class="icon compare-icon">
+                                    <a href="javascript:void(0)">
+                                        <span></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		<div class="row">
+			<div class="col-12">
+				<div class="align-center">
+					<a href="shop.html" class="btn btn-color">See more Products</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Product Section End -->
 
+<script src="https://cdn.jsdelivr.net/npm/vue@2.7.8/dist/vue.js"></script>
+<script src="https://unpkg.com/axios@1.1.2/dist/axios.min.js"></script>

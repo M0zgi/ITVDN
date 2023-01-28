@@ -85,8 +85,40 @@
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\232971385.jpg",
+      "PackagePath": "staticwebassets\\images\\232971385.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\245730946.jpg",
+      "PackagePath": "staticwebassets\\images\\245730946.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\265638285.jpg",
+      "PackagePath": "staticwebassets\\images\\265638285.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\295901627.jpg",
+      "PackagePath": "staticwebassets\\images\\295901627.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\297866134.jpg",
+      "PackagePath": "staticwebassets\\images\\297866134.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\299752507.jpg",
+      "PackagePath": "staticwebassets\\images\\299752507.jpg"
+    },
+    {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\3.jpg",
       "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\304983482.jpg",
+      "PackagePath": "staticwebassets\\images\\304983482.jpg"
+    },
+    {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\306634466.jpg",
+      "PackagePath": "staticwebassets\\images\\306634466.jpg"
     },
     {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\4.jpg",
@@ -329,6 +361,10 @@
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\site\\bootstrap.min.js"
     },
@@ -351,10 +387,6 @@
     {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\site\\owl.carousel.min.js"
-    },
-    {
-      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\js\\site\\site.js",
-      "PackagePath": "staticwebassets\\js\\site\\site.js"
     },
     {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\lib\\bootstrap\\LICENSE",
