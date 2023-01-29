@@ -356,3 +356,5 @@ G:\ITVDN\Exam\Exam\bin\Debug\net6.0\BLL.pdb
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\AutoMapper.dll
 G:\ITVDN\Exam\Exam\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 G:\ITVDN\Exam\Exam\obj\Debug\net6.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+G:\ITVDN\Exam\Exam\bin\Debug\net6.0\LiqPay.SDK.dll
+G:\ITVDN\Exam\Exam\bin\Debug\net6.0\Newtonsoft.Json.dll

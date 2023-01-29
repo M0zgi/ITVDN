@@ -9,6 +9,7 @@ namespace Exam.Services
         {
             CreateMap<BLL.Entities.Product, ProductModel>().ReverseMap();
             CreateMap<BLL.Entities.ProductCategory, CategoryModel>().ReverseMap();
+            CreateMap<BLL.Entities.User, RegisterModel>().ReverseMap();
         }
     }
 }

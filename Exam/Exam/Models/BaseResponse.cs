@@ -9,5 +9,11 @@ namespace Exam.Models
         public ResultStatusCode Status { get; set; }
 
         public string Message { get; set; }
+
+        public BaseResponse()
+        {
+            Status = ResultStatusCode.Ok;
+            Message = "Data Access";
+        }
     }
 }

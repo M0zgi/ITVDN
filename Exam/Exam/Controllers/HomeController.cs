@@ -2,6 +2,10 @@
 using Exam.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Exam.Controllers
 {
@@ -9,9 +13,11 @@ namespace Exam.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private IUserService _userService;
+        public HomeController(IUserService userService, ILogger<HomeController> logger)
         {
             _logger = logger;
+            _userService = userService;
         }
 
         public IActionResult Index()
@@ -60,7 +66,28 @@ namespace Exam.Controllers
         //    return View();
         //}
 
+
+        ///// <summary>
+        ///// Проверка, на эту страницу попадают только авторизированные
+        ///// </summary>
+        ///// <returns></returns>
+        //[Authorize(Roles = "User")]
+        //public IActionResult Privacy()
+        //{
+        //    return View();
+        //}
+
+        public IActionResult Authorization()
+        {
+            return View();
+        }
         public IActionResult Privacy()
+        {
+            var res = User;
+            return View();
+        }
+
+        public IActionResult Order()
         {
             return View();
         }
@@ -69,6 +96,39 @@ namespace Exam.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public async Task<IActionResult> SignIn(UserModel model)
+        {
+            var response = await _userService.Authorize(model);
+            if (ModelState.IsValid)
+            {
+                await AddSession(response.Data);
+                return RedirectToAction("Privacy");
+            }
+
+            return View("Authorization");
+        }
+
+        public async Task<IActionResult> SignOut()
+        {
+	        await HttpContext.SignOutAsync();
+
+	        return RedirectToAction("Index");
+        }
+
+        private async Task AddSession(RegisterModel user)
+        {
+            List<Claim> claims = new List<Claim>()
+            {
+                new Claim(ClaimTypes.Email, user.Email),
+                new Claim(ClaimTypes.Role, user.Role)
+            };
+
+            ClaimsIdentity person = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme, ClaimTypes.Email, ClaimTypes.Role);
+
+            ClaimsPrincipal principal = new ClaimsPrincipal(person);
+            await HttpContext.SignInAsync(principal);
         }
     }
 }

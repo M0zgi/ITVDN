@@ -1,6 +1,7 @@
 using BLL;
 using Exam.Interfeces;
 using Exam.Services;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,10 @@ builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddBusinesslogicLayer();
 builder.Services.AddAutoMapper(typeof(AppMappingProfile));
 builder.Services.AddScoped<IProductServices, ProductServices>();
+builder.Services.AddScoped<IUserService, UserServices>();
+builder.Services.AddScoped<LiqPayServicies>();
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie();
+
 
 var app = builder.Build();
 
@@ -27,6 +32,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.MapControllerRoute(
     name: "default",

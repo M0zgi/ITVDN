@@ -7,13 +7,8 @@ using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
-    public interface ICategoryRepository
+    public interface ICategoryRepository : IEntityRepository<ProductCategory>
     {
-        Task<bool> Create(Product entity);
-        Task<Product> Update(Product entity);
-        Task<bool> Delete(Product entity);
-        Task<List<Product>> Select();
-        Task<Product> GetById(Guid id);
-        Task<Product> GetByName(string name);
+        
     }
 }

@@ -16,27 +16,27 @@ namespace BLL.Services
         {
             _repository = repository;
         }
-        public async Task<bool> CreateProduct(Product entity)
+        public async Task<bool> Create(Product entity)
         {
             return await _repository.Create(entity);
         }
 
-        public async Task<bool> DeleteProduct(Product entity)
+        public async Task<bool> Delete(Product entity)
         {
             return await _repository.Delete(entity);
         }
 
-        public async Task<Product> GetProductById(Guid id)
+        public async Task<Product> GetById(Guid id)
         {
             return await _repository.GetById(id);
         }
 
-        public async Task<Product> GetProductByName(string name)
+        public async Task<Product> GetByName(string name)
         {
             return await _repository.GetByName(name);
         }
 
-        public async Task<IEnumerable<Product>> SelectProducts()
+        public async Task<List<Product>> Select()
         {
             return await _repository.Select();
         }
@@ -55,7 +55,7 @@ namespace BLL.Services
             return products.Where(product => product.Price <= price).ToList();
         }
 
-        public async Task<Product> UpdateProduct(Product entity)
+        public async Task<Product> Update(Product entity)
         {
             return await _repository.Update(entity);
         }

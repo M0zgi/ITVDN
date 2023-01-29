@@ -7,13 +7,8 @@ using BLL.Entities;
 
 namespace BLL.Interfaces
 {
-    public interface IProductRepository
+    public interface IProductRepository : IEntityRepository<Product>
     {
-        Task<bool> Create(Product entity);
-        Task<Product> Update(Product entity);
-        Task<bool> Delete(Product entity);
-        Task<List<Product>> Select();
-        Task<Product> GetById(Guid id);
-        Task<Product> GetByName(string name);
+        
     }
 }

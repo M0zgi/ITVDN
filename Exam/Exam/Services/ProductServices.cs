@@ -41,7 +41,7 @@ namespace Exam.Services
 
             try
             {
-                var result = await _productServices.SelectProducts();
+                var result = await _productServices.Select();
 
                 
 

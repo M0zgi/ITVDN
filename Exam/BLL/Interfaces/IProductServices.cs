@@ -7,15 +7,10 @@ using BLL.Entities;
 
 namespace BLL.Interfaces
 {
-    public interface IProductServices
+    public interface IProductServices : IProductRepository
     {
-        Task<bool> CreateProduct(Product entity);
-        Task<Product> UpdateProduct(Product entity);
-        Task<bool> DeleteProduct(Product entity);
-        Task<IEnumerable<Product>> SelectProducts();
-        Task<IEnumerable<Product>> SelectProductsByCategory(string category);
+	    Task<IEnumerable<Product>> SelectProductsByCategory(string category);
+
         Task<IEnumerable<Product>> SelectProductsByPrice(double price);
-        Task<Product> GetProductById(Guid id);
-        Task<Product> GetProductByName(string name);
     }
 }
