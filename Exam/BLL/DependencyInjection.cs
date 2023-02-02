@@ -14,6 +14,7 @@ namespace BLL
             services.AddScoped<IProductServices, ProductServices>();
             services.AddScoped<IUserService, UserServices>();
             services.AddScoped<IPaymaentServices, LiqPayServicies>();
+            services.AddScoped<GoogleServices>();
 
             return services;
         }

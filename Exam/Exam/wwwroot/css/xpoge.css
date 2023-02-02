@@ -287,10 +287,14 @@ h6 {
 	-o-border-radius: 5px;
 }
 
-.btn.full {
-	width: 100%;
-	text-align: center;
-}
+/*button img {
+    border: none;
+}*/
+
+	.btn.full {
+		width: 100%;
+		text-align: center;
+	}
 
 .btn.big-width {
 	padding: 18px 40px;
@@ -325,6 +329,12 @@ h6 {
 	color: #fff !important;
 	background: #f22a59;
 	border: none;
+}
+
+.google-img {
+		color: #fff !important;
+		background: #fffff0;
+		border: 1px;
 }
 
 .btn-color:hover {

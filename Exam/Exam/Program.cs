@@ -1,7 +1,10 @@
 using BLL;
+using BLL.Services;
 using Exam.Interfeces;
 using Exam.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using ProductServices = Exam.Services.ProductServices;
+using UserServices = Exam.Services.UserServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +16,7 @@ builder.Services.AddAutoMapper(typeof(AppMappingProfile));
 builder.Services.AddScoped<IProductServices, ProductServices>();
 builder.Services.AddScoped<IUserService, UserServices>();
 builder.Services.AddScoped<LiqPayServicies>();
+//builder.Services.AddScoped<GoogleServices>();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie();
 
 

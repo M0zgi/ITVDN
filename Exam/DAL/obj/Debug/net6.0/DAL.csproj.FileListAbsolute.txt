@@ -1,0 +1,14 @@
+G:\ITVDN\Exam\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\ITVDN\Exam\DAL\bin\Debug\net6.0\DAL.dll
+G:\ITVDN\Exam\DAL\bin\Debug\net6.0\DAL.pdb
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.dll
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.pdb
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\ITVDN\Exam\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\ITVDN\Exam\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache

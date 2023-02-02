@@ -237,6 +237,10 @@
       "PackagePath": "staticwebassets\\images\\fav-icon.png"
     },
     {
+      "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\google_sign.png",
+      "PackagePath": "staticwebassets\\images\\google_sign.png"
+    },
+    {
       "Id": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\grid-list.png",
       "PackagePath": "staticwebassets\\images\\grid-list.png"
     },

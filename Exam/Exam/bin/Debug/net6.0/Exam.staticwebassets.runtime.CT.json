@@ -475,6 +475,14 @@
             },
             "Patterns": null
           },
+          "google_sign.png": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "images/google_sign.png"
+            },
+            "Patterns": null
+          },
           "grid-list.png": {
             "Children": null,
             "Asset": {

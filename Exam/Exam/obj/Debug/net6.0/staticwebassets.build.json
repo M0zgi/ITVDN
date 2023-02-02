@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JTXb9FhAwb7tOEeTbvSTH33Oafw7cL35NeY/l4Qn6rs=",
+  "Hash": "KCFKD6Zhlp5lhpp7ZgM+ebvPYakp80b7NVSOGZ4LjPM=",
   "Source": "Exam",
   "BasePath": "_content/Exam",
   "Mode": "Default",
@@ -1018,6 +1018,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\fav-icon.png"
+    },
+    {
+      "Identity": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\google_sign.png",
+      "SourceId": "Exam",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\",
+      "BasePath": "_content/Exam",
+      "RelativePath": "images/google_sign.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\google_sign.png"
     },
     {
       "Identity": "G:\\ITVDN\\Exam\\Exam\\wwwroot\\images\\grid-list.png",
