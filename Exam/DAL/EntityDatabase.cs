@@ -12,12 +12,12 @@ namespace DAL
             Database.EnsureCreated();
         }
 
-        string _connect;
-        public EntityDatabase(string connect)
-        {
-            _connect = connect;
+        //string _connect;
+        //public EntityDatabase(string connect)
+        //{
+        //    _connect = connect;
 
-        }
+        //}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=DBExamAspNet;Trusted_Connection=True;");
