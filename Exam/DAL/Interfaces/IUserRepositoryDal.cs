@@ -7,7 +7,8 @@ using DAL.Entities;
 
 namespace DAL.Interfaces
 {
-    internal interface IUserRepositoryDal : IBaseRepository<User>
+    public interface IUserRepositoryDal : IBaseRepository<User>
     {
+        Task<User> GetByEmail(string email);
     }
 }

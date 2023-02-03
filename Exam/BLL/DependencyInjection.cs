@@ -15,7 +15,7 @@ namespace BLL
             services.AddScoped<IUserService, UserServices>();
             services.AddScoped<IPaymaentServices, LiqPayServicies>();
             services.AddScoped<GoogleServices>();
-
+            services.AddAutoMapper(typeof(AppMappingProfile));
             return services;
         }
     }

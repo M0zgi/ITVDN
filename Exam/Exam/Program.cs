@@ -7,12 +7,12 @@ using ProductServices = Exam.Services.ProductServices;
 using UserServices = Exam.Services.UserServices;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//IConfiguration configuration = builder.Configuration;
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 builder.Services.AddBusinesslogicLayer();
-builder.Services.AddAutoMapper(typeof(AppMappingProfile));
+builder.Services.AddAutoMapper(typeof(Exam.Services.AppMappingProfile));
 builder.Services.AddScoped<IProductServices, ProductServices>();
 builder.Services.AddScoped<IUserService, UserServices>();
 builder.Services.AddScoped<LiqPayServicies>();

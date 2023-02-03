@@ -23,7 +23,7 @@ namespace BLL.Services
 			Dictionary<string, string> query = new Dictionary<string, string>()
 			{
 				{ "client_id", CLIENTID },
-				{ "redirect_uri", "https://localhost:32770/Google/GetGoogleCode" },
+				{ "redirect_uri", "https://localhost:32768/Google/GetGoogleCode" },
 				{ "response_type", "code" },
 				{ "scope", "email" },
 				{ "access_type", "offline" },
@@ -43,7 +43,7 @@ namespace BLL.Services
                 { "client_secret", CLIENTSECRET },
                 { "code", code },
                 { "grant_type", "authorization_code" },
-                { "redirect_uri", "https://localhost:32770/Google/GetGoogleCode" },
+                { "redirect_uri", "https://localhost:32768/Google/GetGoogleCode" },
                 { "access_type", "offline" },
 
             };

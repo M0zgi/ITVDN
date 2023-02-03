@@ -5,15 +5,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 
 namespace BLL.Services
 {
 	public class UserServices : IUserService
 	{
 		private IUserRepository _userRepository;
-		public UserServices(IUserRepository userRepository)
+        IMapper _mapper;
+
+		public UserServices(IMapper mapper, IUserRepository userRepository)
 		{
 			_userRepository = userRepository;
+            _mapper = mapper;
 		}
 		public async Task<User> Authorize(string email, string password)
 		{

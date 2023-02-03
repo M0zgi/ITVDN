@@ -20,7 +20,7 @@ namespace DAL
                 return new EntityDatabase(configuration.GetConnectionString("DbConnect"));
             });
             services.AddScoped<IUserRepositoryDal, UserServices>();
-
+           
 
             return services;
         }
