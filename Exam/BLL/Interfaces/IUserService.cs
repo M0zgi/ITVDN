@@ -7,12 +7,12 @@ using BLL.Entities;
 
 namespace BLL.Interfaces
 {
-	public interface IUserService
+	public interface IUserService : IEntityRepository<User>
 	{
-		Task<User> Authorize(string email, string password);
-		Task<User> Registration(string name, string email, string password);
-		Task<User> AuthorizeFromGoogle (string email);
+        public Task<User> Authorize(string email, string password);
+        public Task<User> Registration(string name, string email, string password);
+        public Task<User> AuthorizeFromGoogle (string email);
 
-		Task<User> GetUserByEmail(string email);
+        public Task<User> GetUserByEmail(string email);
 	}
 }

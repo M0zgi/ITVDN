@@ -12,12 +12,11 @@ namespace BLL.Services
 	public class UserServices : IUserService
 	{
 		private IUserRepository _userRepository;
-        IMapper _mapper;
-
-		public UserServices(IMapper mapper, IUserRepository userRepository)
+        
+		public UserServices(IUserRepository userRepository)
 		{
 			_userRepository = userRepository;
-            _mapper = mapper;
+            
 		}
 		public async Task<User> Authorize(string email, string password)
 		{
@@ -41,7 +40,27 @@ namespace BLL.Services
 			return user;
 		}
 
-		public async Task<User> GetUserByEmail(string email)
+        public async Task<bool> Create(User entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<bool> Delete(User entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<User> GetById(Guid id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<User> GetByName(string name)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<User> GetUserByEmail(string email)
 		{
 			var users = await _userRepository.Select();
 			var user = users.FirstOrDefault(person => person.Email == email);
@@ -73,5 +92,15 @@ namespace BLL.Services
 			
 			return nUser;
 		}
-	}
+
+        public async Task<List<User>> Select()
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<User> Update(User entity)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }

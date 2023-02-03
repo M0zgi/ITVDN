@@ -22,12 +22,22 @@ namespace DAL.Services
         }
         public async Task<bool> Create(User entity)
         {
-            throw new NotImplementedException();
+            using (EntityDatabase database = _database)
+            {
+                await database.Users.AddAsync(entity);
+                await database.SaveChangesAsync();
+            }
+            return true;
         }
 
         public async Task<bool> Delete(User entity)
         {
-            throw new NotImplementedException();
+            using (EntityDatabase database = _database)
+            {
+                database.Users.Remove(entity);
+                await database.SaveChangesAsync();
+            }
+            return true;
         }
 
         public async Task<User> GetByEmail(string email)
@@ -40,7 +50,10 @@ namespace DAL.Services
 
         public async Task<User> GetById(Guid id)
         {
-            throw new NotImplementedException();
+            using (EntityDatabase database = _database)
+            {
+                return await database.Users.FirstOrDefaultAsync(product => product.Id == id);
+            }
         }
 
         public async Task<User> GetByName(string name)

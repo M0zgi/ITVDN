@@ -11,7 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
-builder.Services.AddBusinesslogicLayer();
+IConfiguration configuration = builder.Configuration;
+builder.Services.AddBusinesslogicLayer(configuration);
 builder.Services.AddAutoMapper(typeof(Exam.Services.AppMappingProfile));
 builder.Services.AddScoped<IProductServices, ProductServices>();
 builder.Services.AddScoped<IUserService, UserServices>();

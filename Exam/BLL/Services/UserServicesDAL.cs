@@ -6,16 +6,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
+using DAL.Interfaces;
 
 namespace BLL.Services
 {
 	public class UserServicesDal : IUserService
-	{
-		//private IUserRepository _userRepository;
-		private DAL.Interfaces.IUserRepositoryDal _userRepository;
-        IMapper _mapper;
+    {
+        private IUserRepositoryDal _userRepository;
+        private IMapper _mapper;
 
-		public UserServicesDal(IMapper mapper, DAL.Interfaces.IUserRepositoryDal userRepository)
+		public UserServicesDal(IMapper mapper, IUserRepositoryDal userRepository)
 		{
 			_userRepository = userRepository;
             _mapper = mapper;
@@ -44,7 +44,27 @@ namespace BLL.Services
 			return _mapper.Map<User>(user);
 		}
 
-		public async Task<User> GetUserByEmail(string email)
+        public Task<bool> Create(User entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<bool> Delete(User entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<User> GetById(Guid id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<User> GetByName(string name)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<User> GetUserByEmail(string email)
 		{
 			var users = await _userRepository.Select();
 			var user = users.FirstOrDefault(person => person.Email == email);
@@ -78,5 +98,16 @@ namespace BLL.Services
 
             throw new NotImplementedException();
 		}
-	}
+
+        public async Task<List<User>> Select()
+        {
+            var products = await _userRepository.Select();
+            return _mapper.Map<List<User>>(products);
+        }
+
+        public Task<User> Update(User entity)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }
